@@ -29,7 +29,7 @@ def cpu_bound_func(accuracy = 20):
 
 ## comparative charts graphics
 
-![alt text](../saved_figure.png " ")
+![alt text](saved_figure.png " ")
 
 - [About](#about)
 - [Getting Started](#getting_started)
